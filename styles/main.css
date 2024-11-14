@@ -1,0 +1,17 @@
+:root{
+    --first-color:  #ffedbe;
+    --second-color: #ef7f3f;
+    --terciary-color: #dd5d26;
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 98 vw;
+    height: auto;
+    display: flex;
+}
